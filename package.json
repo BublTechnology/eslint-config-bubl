@@ -1,0 +1,30 @@
+{
+    "name": "@bubltechnology/eslint-config-bubl",
+    "version": "1.0.0",
+    "description": "Eslint configuration used by Bubl Technology",
+    "main": "index.js",
+    "scripts": {
+        "lint": "$(npm bin)/eslint -c .eslintrc.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BublTechnology/eslint-config-bubl.git"
+    },
+    "keywords": [
+        "eslintconfig"
+    ],
+    "author": "Bubl Technology Ltd.",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/BublTechnology/eslint-config-bubl/issues"
+    },
+    "peerDependencies": {
+        "eslint": "^3.16.1"
+    },
+    "dependencies": {
+        "eslint-config-standard": "^7.0.0",
+        "eslint-plugin-promise": "^3.5.0",
+        "eslint-plugin-standard": "^2.0.1"
+    },
+    "homepage": "https://github.com/BublTechnology/eslint-config-bubl#readme"
+}
