@@ -1,6 +1,6 @@
 {
   "name": "@bubltechnology/eslint-config-bubl",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Eslint configuration used by Bubl Technology",
   "main": "index.js",
   "scripts": {
